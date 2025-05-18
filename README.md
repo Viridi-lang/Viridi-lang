@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Lina Macias
 
-<!--
-**Viridi-lang/Viridi-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a career-changer learning to become a software engineer.  
+💻 Currently enrolled in a coding bootcamp focused on HTML, CSS, JavaScript, and Git.  
+📚 I have a background in writing, research, health and quality assurance.  
+📈 Certifications: CompTIA ITF+ • Google Analytics • (soon) Frontend Certification.
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on chatbot dialogue and creating a herbalism app.
+🌱 I’m currently learning Javascript.
+👯 I’m looking to collaborate on a project involving game design.
+🤔 I’m looking for help with Javascript lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 ## 🎯 Learning Goals
+- Deepen my understanding of React
+- Build a portfolio-ready full-stack project
+- Get my first tech job and start my degree in Software Engineering
+
+## 🤝 Let's Connect
+[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:linamacias888@gmail.com)
+
+
+⚡ Fun fact: I really enjoy rollerskating, yoga and gardening.
+
