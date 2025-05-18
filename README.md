@@ -16,7 +16,7 @@
 - Get my first tech job and start my degree in Software Engineering
 
 ## 🤝 Let's Connect
-[LinkedIn]((https://www.linkedin.com/in/lina-macias/)) | [Email](mailto:linamacias888@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/lina-macias/]) | [Email](mailto:linamacias888@gmail.com)
 
 
 ⚡ Fun fact: I really enjoy rollerskating, yoga and gardening.
