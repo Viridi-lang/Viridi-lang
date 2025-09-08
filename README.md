@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lina Macias
+# 👋 Hi, I’m Lina
 
 🌱 I’m a career-changer learning to become a software engineer.  
 💻 Currently enrolled in a coding bootcamp focused on HTML, CSS, JavaScript, and Git.  
@@ -16,7 +16,7 @@
 - Get my first tech job and start my degree in Software Engineering
 
 ## 🤝 Let's Connect
-[LinkedIn](https://linkedin.com/in/lina-macias/) | [Email](mailto:linamacias888@gmail.com)
+[LinkedIn](https://linkedin.com/in/lina-macias/) | [Email](mailto:linamacias888@gmail.com) | [Wordpress](wellnessdev.studio)
 
 
 ⚡ Fun fact: I really enjoy rollerskating, yoga and gardening.
