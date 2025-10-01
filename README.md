@@ -1,21 +1,14 @@
-# 👋 Hi, I’m Lina
+I’m a junior web developer and freelance copywriter passionate about building clean, user-friendly websites and supporting teams with detail-oriented operations.
 
-🌱 I’m a career-changer learning to become a software engineer.  
-💻 Currently enrolled in a coding bootcamp focused on HTML, CSS, JavaScript, and Git.  
-📚 I have a background in writing, research, health and quality assurance.  
-📈 Certifications: CompTIA ITF+ • Google Analytics • (soon) Frontend Certification.
+🌱 Currently learning: JavaScript, Git, and responsive design
+💻 Tech stack: HTML · CSS · JavaScript · Git/GitHub · basic QA & bug reporting
+📂 Projects:
+	•	se_project_coffeeshop – Responsive coffee shop website with HTML, CSS, and JavaScript; practiced debugging and styling consistency.
+	•	se_project_spots – Layout project using HTML and CSS with focus on structure and responsive design.
 
- 🔭 I’m currently working on chatbot dialogue and creating a herbalism app.
-🌱 I’m currently learning Javascript.
-👯 I’m looking to collaborate on a project involving game design.
-🤔 I’m looking for help with Javascript lol
+✨ I bring a background in writing, customer service, and quality assurance — which means I’m comfortable with communication, accuracy, and teamwork.
 
-📫 ## 🎯 Learning Goals
-- Deepen my understanding of React
-- Build a portfolio-ready full-stack project
-- Get my first tech job and start my degree in Software Engineering
-
-## 🤝 Let's Connect
+📫 Let’s connect: 
 [LinkedIn](https://linkedin.com/in/lina-macias/) | [Email](mailto:linamacias888@gmail.com) | [Wordpress](wellnessdev.studio)
 
 
