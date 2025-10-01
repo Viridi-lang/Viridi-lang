@@ -1,3 +1,5 @@
+👋 Hi, I’m Lina 
+
 I’m a junior web developer and freelance copywriter passionate about building clean, user-friendly websites and supporting teams with detail-oriented operations.
 
 🌱 Currently learning: JavaScript, Git, and responsive design
