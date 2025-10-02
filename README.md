@@ -11,7 +11,7 @@ I’m a junior web developer and freelance copywriter passionate about building 
 <br>✨ I bring a background in writing, customer service, and quality assurance — which means I’m comfortable with communication, accuracy, and teamwork.
 
 <br>📫 Let’s connect: 
-[LinkedIn](https://linkedin.com/in/lina-macias/) | [Email](mailto:linamacias888@gmail.com) | [Wordpress](wellnessdev.studio)
+[LinkedIn](https://linkedin.com/in/lina-macias/) | [Email](mailto:linamacias888@gmail.com) | [Wellness Blog](wellnessdevstudio.wordpress.com)
 
 
 ⚡ Fun fact: I really enjoy rollerskating, yoga and gardening.
